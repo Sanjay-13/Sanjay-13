@@ -8,3 +8,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on solving problems using Machine Learning and Deep Learning Concepts with Python.
 - 🌱 I’m currently learning Machine Learning concepts using Python, Flask for deploying those Models.
 - 👯 I’m looking to collaborate on projects dealing with the above mentioned concepts.
+- You can reach me at sanjaysaripalli96@gmail.com
